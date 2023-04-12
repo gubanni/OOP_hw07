@@ -3,10 +3,10 @@ package main
 import (
 	"log"
 
-	c "github.com/ptsypyshev/Java-OOP-GB/hw07/internal/app/commands"
-	p "github.com/ptsypyshev/Java-OOP-GB/hw07/internal/app/presenters"
-	m "github.com/ptsypyshev/Java-OOP-GB/hw07/internal/models"
-	"github.com/ptsypyshev/Java-OOP-GB/hw07/internal/ui"
+	c "github.com/gubanni/OOP_hw07/internal/app/commands"
+	p "github.com/gubanni/OOP_hw07/internal/app/presenters"
+	m "github.com/gubanni/OOP_hw07/internal/models"
+	"github.com/gubanni/OOP_hw07/internal/ui"
 )
 
 func main() {

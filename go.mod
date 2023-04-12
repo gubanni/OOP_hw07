@@ -1,3 +1,3 @@
-module github.com/ptsypyshev/Java-OOP-GB/hw07
+module github.com/gubanni/OOP_hw07
 
 go 1.19
